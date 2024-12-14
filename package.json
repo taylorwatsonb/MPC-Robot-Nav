@@ -1,0 +1,10 @@
+{
+  "name": "mpc-robot-navigation",
+  "version": "1.0.0",
+  "description": "MPC-based robot navigation visualization",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
